@@ -2,7 +2,7 @@
 
 -> 💟 First and foremost, I consider myself as a pretty optimistic person
 
-- 💭 Ich spreche 4 Sprache
+- 💭 Ich spreche 4 Sprachen
 - 👀 I’m passionate about learning
 - 🌱 Currently, I’m diving deep into math, physics, and programming
 - 💞️ I'm open to collaborating on development projects
